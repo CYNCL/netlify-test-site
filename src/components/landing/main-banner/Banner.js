@@ -667,7 +667,7 @@ ethereum(network: ethereum) {
             <div className="col-xl-10 col-lg-10 col-md-11 col-12 m-auto">
               <div className="col-items">
               <ReactPlayer
-                url='https://www.youtube.com/watch?v=2XpfWB-PzKE&ab_channel=WeintekLabs.%2CInc.'
+                url='https://www.youtube.com/watch?v=JpVq1kAuo-w'
                 loop={true}
                 controls={false}
                 muted={true}
