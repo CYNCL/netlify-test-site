@@ -388,35 +388,35 @@ ethereum(network: ethereum) {
               <div class="owl_option">
                 <OwlCarousel className="owl-theme" {...owl_option}>
                   <div class="item" onClick={routeChange}>
-                    <img src="./assestmeta/NFTS/Dystain.jpeg" alt="img" />
+                    <img src="./assestmeta/NFTS/Dystain.png" alt="img" />
                     <h4>Dystain</h4>
                   </div>
                   <div class="item" onClick={routeChange}>
-                    <img src="./assestmeta/NFTS/Z-1A.jpeg" alt="img" />
+                    <img src="./assestmeta/NFTS/Z-1A.png" alt="img" />
                     <h4>Z-1A</h4>
                   </div>
                   <div class="item" onClick={routeChange}>
-                    <img src="./assestmeta/NFTS/Niancia.jpeg" alt="img" />
+                    <img src="./assestmeta/NFTS/Niancia.png" alt="img" />
                     <h4>Niancia</h4>
                   </div>
                   <div class="item" onClick={routeChange}>
-                    <img src="./assestmeta/NFTS/Z-Merc.jpeg" alt="img" />
+                    <img src="./assestmeta/NFTS/Z-Merc.png" alt="img" />
                     <h4>Z-Merc</h4>
                   </div>
                   <div class="item" onClick={routeChange}>
-                    <img src="./assestmeta/NFTS/Beruse.jpeg" alt="img" />
+                    <img src="./assestmeta/NFTS/Beruse.png" alt="img" />
                     <h4>Beruse</h4>
                   </div>
                   <div class="item" onClick={routeChange}>
-                    <img src="./assestmeta/NFTS/Big_Chunga.jpeg" alt="img" />
+                    <img src="./assestmeta/NFTS/Big_Chunga.png" alt="img" />
                     <h4>Big Chunga</h4>
                   </div>
                   <div class="item" onClick={routeChange}>
-                    <img src="./assestmeta/NFTS/Karul_Kah.jpeg" alt="img" />
+                    <img src="./assestmeta/NFTS/Karul_Kah.png" alt="img" />
                     <h4>Karul Kah</h4>
                   </div>
                   <div class="item" onClick={routeChange}>
-                    <img src="./assestmeta/NFTS/Sinthya.jpeg" alt="img" />
+                    <img src="./assestmeta/NFTS/Sinthya.png" alt="img" />
                     <h4>Sinthya</h4>
                   </div>
                   <div class="item" onClick={routeChange}>
@@ -830,7 +830,7 @@ ethereum(network: ethereum) {
                 </div>
                 <div className="card">
                   <img
-                    src="./assestmeta/Crynical/person.png"
+                    src="./assestmeta/Crynical/Person.png"
                     alt="img"
                     style={{ height: 190 }}
                     className="img-fluid"
