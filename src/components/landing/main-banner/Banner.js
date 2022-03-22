@@ -679,13 +679,6 @@ ethereum(network: ethereum) {
           </div>
         </div>
       </section>
-                  <br>
-                  <br>
-                  <br>
-                  <br>
-                  <br>
-                  <br>
-                  <br>
      
 {/* <section className="learn_us">
         <div className="shadoww">
