@@ -675,16 +675,19 @@ ethereum(network: ethereum) {
                 />
                 
               </div>
-             </div>
-              </div>
-             </div>
-              </div>
-            </div>
             </div>
           </div>
         </div>
       </section>
-      {/* <section className="learn_us">
+                  <br>
+                  <br>
+                  <br>
+                  <br>
+                  <br>
+                  <br>
+                  <br>
+     
+{/* <section className="learn_us">
         <div className="shadoww">
           <img
             src="./assestmeta/Crynical/s2.png"
