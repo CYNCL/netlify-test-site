@@ -678,6 +678,13 @@ ethereum(network: ethereum) {
             </div>
           </div>
         </div>
+        <div className="shadoww">
+          <img
+            src="./assestmeta/Crynical/s2.png"
+            alt="img"
+            className="img-fluid"
+          />
+        </div>
       </section>
      
 {/* <section className="learn_us">
